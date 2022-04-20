@@ -1,6 +1,4 @@
-name: Staging deployment
-
-on: name: Stage the app
+name: Stage the app
 
 on: 
   pull_request:
